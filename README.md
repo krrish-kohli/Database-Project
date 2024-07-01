@@ -22,8 +22,8 @@ This project implements array-based list data structures and applies them to two
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -59,11 +59,11 @@ This project implements array-based list data structures and applies them to two
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd array-based-lists-project
+    cd Array_Based-_Lists
     ```
 
 ## Usage
@@ -128,8 +128,8 @@ This project implements various data structures and demonstrates their applicati
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -182,11 +182,11 @@ This project implements various data structures and demonstrates their applicati
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd library-and-calculator-project
+    cd Binary_Heaps
     ```
 
 ## Usage
@@ -233,8 +233,8 @@ This project focuses on the implementation and application of various binary tre
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -284,11 +284,11 @@ This project focuses on the implementation and application of various binary tre
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd binary-trees-project
+    cd Binary_Trees
     ```
 
 ## Usage
@@ -335,8 +335,8 @@ This project focuses on the implementation and application of a Chained Hash Tab
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -382,11 +382,11 @@ This project focuses on the implementation and application of a Chained Hash Tab
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd chained-hash-table-project
+    cd Chained__Hash__Table
     ```
 
 ## Usage
@@ -433,8 +433,8 @@ This project focuses on implementing essential graph data structures and other f
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -501,11 +501,11 @@ This project focuses on implementing essential graph data structures and other f
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd graphs-project
+    cd Graphs
     ```
 
 ## Usage
@@ -553,8 +553,8 @@ This project implements various types of linked lists and applies them to practi
 ## Learning Objectives
 
 - **CLO 1**: Identify fundamental data structures in computer science and their use in real-life applications.
-- **CLO 3**: Develop problem-solving skills by implementing data structures.
-- **CLO 4**: Compare advantages and disadvantages of different data structure implementations.
+- **CLO 2**: Develop problem-solving skills by implementing data structures.
+- **CLO 3**: Compare advantages and disadvantages of different data structure implementations.
 
 ## Features
 
@@ -604,11 +604,11 @@ This project implements various types of linked lists and applies them to practi
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd linked-lists-project
+    cd Linked_Lists
     ```
 
 ## Usage
@@ -713,11 +713,11 @@ This project implements sorting and searching algorithms using various data stru
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krrish-kohli/Database-Project-Library-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd sorting-searching-project
+    cd Sorting_and_Searching
     ```
 
 ## Usage
